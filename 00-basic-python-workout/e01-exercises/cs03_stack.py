@@ -11,6 +11,9 @@ class Stack:
     def peek(self):
         return self.items[-1]
 
+    def is_empty(self):
+        return len(self.items) == 0
+
     def __repr__(self):
         str = ""
         for i in range(0, len(self.items)):

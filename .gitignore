@@ -1,4 +1,7 @@
-.vscode
+.vscode/**/*
+!.vscode/settings.json
 .ipynb_checkpoints
 __pycache__
+.coverage
+htmlcov
 99-scratchpad

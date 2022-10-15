@@ -1,4 +1,4 @@
-from math import isnan, sqrt
+from math import sqrt
 from cs03_stack import Stack
 
 

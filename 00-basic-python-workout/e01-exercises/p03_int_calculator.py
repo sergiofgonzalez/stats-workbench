@@ -2,13 +2,16 @@ def add(a, b):
     result = a + b
     print(f"{a} + {b} = {result}\n")
 
+
 def sub(a, b):
     result = a - b
     print(f"{a} - {b} = {result}\n")
 
+
 def mult(a, b):
     result = a * b
     print(f"{a} * {b} = {result}\n")
+
 
 def div(a, b):
     quot = a // b

@@ -192,6 +192,9 @@ class Fraction:
         else:
             return f"$ \\frac{{{self.numerator}}}{{{self.denominator}}} $"
 
+    def to_float(self):
+        return self.numerator / self.denominator
+
     @staticmethod
     def __isValidIntArgs(*nums):
         return all([isinstance(num, int) for num in nums])
