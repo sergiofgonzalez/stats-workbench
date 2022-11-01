@@ -2,5 +2,6 @@
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.enabled": true,
-  "python.linting.pycodestyleArgs": ["--ignore=E501,W504"]
+  "python.linting.pycodestyleArgs": ["--ignore=E501,W504"],
+  "python.formatting.provider": "black"
 }

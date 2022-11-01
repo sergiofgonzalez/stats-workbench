@@ -32,6 +32,17 @@ A notebook with basic Python exercises to get up to speed.
 
 #### [Project 11 &mdash; Rolling dice](./e01-exercises/p11_rolling_dice.py)
 
+#### [Project 12 &mdash; Testing Stable Diffusion](./e01-exercises/p12_hello_stable_diffusion%20copy.py)
+
+#### [Project 13 &mdash; Python Connectivity Check](./e01-exercises/p13_site_connectivity_checker.py)
+
+#### [Project 14 &mdash; Testing type hints with `mypy`](./e01-exercises/p14_mypy_linting.py)
+
+#### [Project 15 &mdash; Currency Converter](./e01-exercises/p15_currency_converter.py)
+
+#### [Project 16 &mdash; Leap Year Checker](./e01-exercises/p15_currency_converter.py)
+
+
 ### Python web projects
 
 #### [Web Project 00 &mdash; Hello, Flask!](./e01-exercises/w00_flask_hello/README.md)
@@ -69,16 +80,22 @@ A notebook with basic Python exercises to get up to speed.
 
 #### [CS Project 12 &mdash; Better Generalized Linked List](./e01-exercises/cs12_better_generalized_linked_list.py)
 
-#### [CS Project 13 &mdash; Stacks on Linked Lists](./e01-exercises/cs13_stack_on_linked_list.py)
+#### [CS Project 13 &mdash; Stack on Linked List](./e01-exercises/cs13_stack_on_linked_list.py)
+
+#### [CS Project 14 &mdash; Queue on Linked List](./e01-exercises/cs14_queue_on_linked_list.py)
+
+#### [CS Project 15 &mdash; Circular List](./e01-exercises/cs15_circular_list.py)
+
+#### [CS Project 16 &mdash; Queue on Circular List](./e01-exercises/cs16_queue_on_circular_list.py)
+
+#### [CS Project 17 &mdash; Priority Queue](./e01-exercises/cs17_priority_queue.py)
+
+#### [CS Project 18 &mdash; Doubly Linked List](./e01-exercises/cs18_doubly_linked_list.py)
+
+#### [CS Project 19 &mdash; Circular Doubly Linked List](./e01-exercises/cs18_circular_doubly_linked_list.py)
+
+## Python workouts
 
 
 
-| NOTE: |
-| :---- |
-| This example includes a unit test program: [fixed-sized linked list test](./e01-exercises/test_cs08_array_backed_linked_list.py)
 
-#### [CS Project 08 &mdash; Fixed-sized linked list](./e01-exercises/cs09_heap_backed_linked_list.py)
-
-| NOTE: |
-| :---- |
-| This example includes a unit test program: [fixed-sized linked list test](./e01-exercises/test_cs09_heap_backed_linked_list.py)

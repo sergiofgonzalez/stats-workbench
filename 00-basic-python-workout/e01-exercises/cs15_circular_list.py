@@ -42,7 +42,6 @@ class CircularList:
     def remove(self, pos):
         if pos < 0 or pos > self.num_items - 1:
             raise ValueError(f"Invalid pos given for removal: {pos}")
-
         if self.num_items == 1:
             self.tail = None
             self.num_items -= 1

@@ -5,3 +5,4 @@ __pycache__
 .coverage
 htmlcov
 99-scratchpad
+.mypy_cache

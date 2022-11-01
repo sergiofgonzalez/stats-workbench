@@ -7,7 +7,7 @@ from cs15_circular_list import CircularList
 # + `coverage html` &mdash; html report
 
 
-class TestHeapBackedLinkedList(unittest.TestCase):
+class TestCircularList(unittest.TestCase):
 
     def test_initialize_list(self):
         cl = CircularList()

@@ -47,7 +47,7 @@ class LinkedList(ABC):
         ...
 
     @abstractmethod
-    def node_from_ref(p):
+    def node_from_ref(self, p):
         ...
 
     def _len(self):
