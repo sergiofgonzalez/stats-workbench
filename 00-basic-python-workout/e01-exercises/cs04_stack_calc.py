@@ -35,11 +35,6 @@ class StackCalculator(Stack):
         op1 = self.pop()
         self.push(op1 + op2)
 
-    def add(self):
-        op2 = self.pop()
-        op1 = self.pop()
-        self.push(op1 + op2)
-
     def sub(self):
         op2 = self.pop()
         op1 = self.pop()

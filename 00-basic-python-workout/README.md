@@ -40,8 +40,15 @@ A notebook with basic Python exercises to get up to speed.
 
 #### [Project 15 &mdash; Currency Converter](./e01-exercises/p15_currency_converter.py)
 
-#### [Project 16 &mdash; Leap Year Checker](./e01-exercises/p15_currency_converter.py)
+#### [Project 16 &mdash; Leap Year Checker](./e01-exercises/p16_leap_year_checker.py)
 
+#### [Project 17 &mdash; Read character from terminal](./e01-exercises/p17_read_ch_from_term.py)
+
+#### [Project 18 &mdash; Word Dictionary](./e01-exercises/p18_word_dictionary.py)
+
+### [Project 18 &mdash; Word Dictionary](./e01-exercises/p18_word_dictionary.py)
+
+### [Project 19 &mdash; Rock, Paper, Scissors](./e01-exercises/p19_rock_paper_scissors.py)
 
 ### Python web projects
 
@@ -92,10 +99,54 @@ A notebook with basic Python exercises to get up to speed.
 
 #### [CS Project 18 &mdash; Doubly Linked List](./e01-exercises/cs18_doubly_linked_list.py)
 
-#### [CS Project 19 &mdash; Circular Doubly Linked List](./e01-exercises/cs18_circular_doubly_linked_list.py)
+#### [CS Project 19 &mdash; Circular Doubly Linked List](./e01-exercises/cs19_circular_doubly_linked_list.py)
+
+#### [CS Project 20 &mdash; Stack on Circular Doubly Linked List](./e01-exercises/cs20_stack_on_circular_doubly_linked_list.py)
+
+#### [CS Project 21 &mdash; Queue on Circular Doubly Linked List](./e01-exercises/cs21_queue_on_circular_doubly_linked_list.py)
+
+#### [CS Project 22 &mdash; List of lists](./e01-exercises/cs22_lists_of_lists.py)
+
+#### [CS Project 23 &mdash; Factorial](./e01-exercises/cs23_factorial.py)
+
+#### [CS Project 24 &mdash; Fibonacci](./e01-exercises/cs24_fibonacci.py)
+
+#### [CS Project 25 &mdash; Ackermann](./e01-exercises/cs25_ackermann.py)
+
+#### [CS Project 26 &mdash; Ackermann](./e01-exercises/cs26_jeep_problem.py)
+
+#### [CS Project 27 &mdash; Recursive Data Structures: Tree](./e01-exercises/cs27_recursive_data_structures_tree.py)
+
+#### [CS Project 28 &mdash; Option Data Type](./e01-exercises/cs28_option.py)
+
+#### [CS Project 29 &mdash; Using recursion to add a list of nums](./e01-exercises/cs29_add_num_list_recursive.py)
+
+### AI/ML projects
+
+#### [AI Project 01 &mdash; My take on solving a maze using AI](./e01-exercises/ai01_maze.py)
+
+#### [AI Project 02 &mdash; Solving a maze using AI (Harvard source code)](./e01-exercises/ai02_maze_harvard_code.py)
+
+#### [AI Project 02 &mdash; Solving a maze using AI with BGFS optimization](./e01-exercises/ai02_maze_harvard_code.py)
+
+
 
 ## Python workouts
 
 
+| Workout type  | Hits  |
+| :------------ | :---  |
+| AWS           | XXXXXXXX    |
+| Eng           | XXXXXXXXXXX   |
+| Typing        | XXXXXXXXXXXXXXX |
+| CS            | XXXXXXXXX   |
+| Beginner Prjs | XXX         |
+| Statistics    | XXXX        |
+| Tutorials     | XXXX        |
+| Math          |       |
+| Node.js       |       |
+| Data Science  | XXXXXX  |
+| Kubernetes    |       |
 
-
+Python notes: Section 5.5
+https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home
